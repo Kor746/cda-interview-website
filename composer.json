@@ -15,7 +15,8 @@
         "laravel/framework": "^8.0",
         "laravel/tinker": "^2.0",
         "laravel/ui": "^2.3",
-        "spatie/laravel-robots-middleware": "^1.2"
+        "spatie/laravel-robots-middleware": "^1.2",
+        "silex/silex": "~1.1"
     },
     "require-dev": {
         "facade/ignition": "^2.3.6",
